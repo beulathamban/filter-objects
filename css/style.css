@@ -1,0 +1,34 @@
+body{
+	background: lightblue;
+	font-family: 'PT Mono', monospace;
+}
+
+#page-heading{
+	padding-top : 30px;
+}
+
+/*.navbar{
+	width:100%;
+}*/
+
+.nav-item{
+	margin:auto 100px ;
+}
+
+.course{
+	margin-right: 80px;
+
+}
+#course-details{
+	margin-top : 50px;
+}
+
+#filter-heading{
+	text-align: center;
+	margin-top : 50px;
+}
+.logo{
+	width: 150px;
+	height: 100px;
+
+}
